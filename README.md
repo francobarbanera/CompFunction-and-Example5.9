@@ -9,4 +9,4 @@ F.Barbanera, M.Dezani-Ciancaglini  Partial Typing for Open Compliance in Multipa
 where the participant names have been left implicit.
 The output of g can be an infinite global type, any approximation of which can be displayed by means of the function prune
 that takes a number n and a global type and returns the global type with all branches cut after n interactions.
-In the code are defined also the global types used in Example 5.9.
+In the code also the global types used in Example 5.9 are defined.
