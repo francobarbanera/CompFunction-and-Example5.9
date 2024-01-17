@@ -17,6 +17,6 @@ repository-code: >-
 abstract: >-
   Haskell definition for the composition function as
   described in the proof of Th.5.8 with related datatype
-  definitions. Formalisation of Example 5.8. 
+  definitions. Formalisation of Example 5.9. 
 version: '1.0'
 date-released: '2024-01-14'
