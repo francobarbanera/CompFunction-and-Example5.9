@@ -1,5 +1,5 @@
 The Haskell module DataType implements Processes, Global Types and Compliance derivations as defined in
-F.Barbanera, M.Dezani-Ciancaglini  Partial Typing for Open Compliance in Multiparty Sessions
+F.Barbanera, M.Dezani-Ciancaglini  Partial Typing for Open Compliance in Multiparty Sessions.
 
 The module CompositionFunction implements the function g with
 Input: d (compliance derivation ), 
