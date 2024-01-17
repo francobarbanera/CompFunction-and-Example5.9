@@ -1,7 +1,7 @@
 ---------------------------------------------------------
 -- This module implements the composition function and --
--- the function prune (prune cuts the branches of a       --
--- possibly infinite global type at a given level)      --
+-- the function prune (prune cuts the branches of a    --
+-- possibly infinite global type at a given level)     --
 ---------------------------------------------------------
 
 module CompositionFunction where
