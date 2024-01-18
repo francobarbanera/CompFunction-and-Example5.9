@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Composition function from Theorem 5.8 with Example 5.9
+title: Composition function from Theorem 5.8 and Examples
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -13,10 +13,10 @@ authors:
     email: franco.barbanera@unict.it
     affiliation: DMI - University of Catania
 repository-code: >-
-  https://github.com/francobarbanera/CompFunction-and-Example5.9/tree/main
+  https://github.com/francobarbanera/Global-Types-Composition/tree/main
 abstract: >-
-  Haskell definition for the composition function as
-  described in the proof of Th.5.8 with related datatype
-  definitions. Formalisation of Example 5.9. 
+  Haskell implementations of the function composing global types (from the proof of Th.5.8) 
+  and the function building gateways (from Fig.5), with related datatype definitions. 
+  Formalisation of Example 5.9 and Example of Section 6. 
 version: '1.0'
 date-released: '2024-01-14'
