@@ -13,7 +13,7 @@ Input: d (compliance derivation), ph, pv, pw (participants names).
 Output: the gateways induced by the derivation d for the given participant names. 
 The gateways can be infinite processes, any approximation of which can be displayed by means of the function prunproc.
 
-The module DataType.hs contains the Haskell datatype definitions for Processes, Global Types and Compliance derivations. 
+The module DataTypes.hs contains the Haskell datatype definitions for Processes, Global Types and Compliance derivations. 
 
 The module Example5dot9 implements the objects present in Example 5.9.
 
