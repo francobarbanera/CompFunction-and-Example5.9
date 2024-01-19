@@ -12,6 +12,10 @@ authors:
     family-names: Barbanera
     email: franco.barbanera@unict.it
     affiliation: DMI - University of Catania
+  - given-names: 'Mariangiola '
+    family-names: Dezani-Ciancaglini
+    email: franco.mariangiola.dezani@gmail.com
+    affiliation: University of Torino
 repository-code: >-
   https://github.com/francobarbanera/Global-Types-Composition/tree/main
 abstract: >-
