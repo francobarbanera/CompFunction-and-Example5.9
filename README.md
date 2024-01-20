@@ -1,5 +1,5 @@
 
-The file TheFunctionImplementedByTheProgramFunctionDefinition.hs.pdf contains an excerpt of the proof of Theorem 5.8. In it only the definition 
+The file "The Function Implemented By The Program FunctionDefinition.hs.pdf contains" an excerpt of the proof of Theorem 5.8. In it only the definition 
 of the function G is present.
 
 The module FunctionDefinition.hs contains the Haskell implementation (as function "g") of the function defined in the above pdf file.  
