@@ -1,3 +1,17 @@
+----------------------------------------
+The code in this repository is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published
+by the Free Software Foundation, either version 3 of the License,
+or (at your option) any later version.
+
+It is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+For a copy of the GNU General Public License see <http://www.gnu.org/licenses/>.
+-----------------------------------------
+
 
 The file "The Function Implemented By The Program FunctionDefinition.hs.pdf contains" an excerpt of the proof of Theorem 5.8. In it only the definition 
 of the function G is present.
