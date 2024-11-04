@@ -8,9 +8,9 @@ It is distributed in the hope that it will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 General Public License for more details.
-
 For a copy of the GNU General Public License see <http://www.gnu.org/licenses/>.
------------------------------------------
+
+--------------------------------------------
 
 
 The file "The Function Implemented By The Program FunctionDefinition.hs.pdf contains" an excerpt of the proof of Theorem 5.8. In it only the definition 
